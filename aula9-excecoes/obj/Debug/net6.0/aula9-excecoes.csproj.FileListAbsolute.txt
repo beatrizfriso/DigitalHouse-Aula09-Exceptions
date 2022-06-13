@@ -1,0 +1,15 @@
+C:\Users\beatrizp\source\repos\aula9-excecoes\aula9-excecoes\obj\Debug\net6.0\aula9-excecoes.csproj.AssemblyReference.cache
+C:\Users\beatrizp\source\repos\aula9-excecoes\aula9-excecoes\obj\Debug\net6.0\aula9-excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatrizp\source\repos\aula9-excecoes\aula9-excecoes\obj\Debug\net6.0\aula9-excecoes.AssemblyInfoInputs.cache
+C:\Users\beatrizp\source\repos\aula9-excecoes\aula9-excecoes\obj\Debug\net6.0\aula9-excecoes.AssemblyInfo.cs
+C:\Users\beatrizp\source\repos\aula9-excecoes\aula9-excecoes\obj\Debug\net6.0\aula9-excecoes.csproj.CoreCompileInputs.cache
+C:\Users\beatrizp\source\repos\aula9-excecoes\aula9-excecoes\bin\Debug\net6.0\aula9-excecoes.exe
+C:\Users\beatrizp\source\repos\aula9-excecoes\aula9-excecoes\bin\Debug\net6.0\aula9-excecoes.deps.json
+C:\Users\beatrizp\source\repos\aula9-excecoes\aula9-excecoes\bin\Debug\net6.0\aula9-excecoes.runtimeconfig.json
+C:\Users\beatrizp\source\repos\aula9-excecoes\aula9-excecoes\bin\Debug\net6.0\aula9-excecoes.dll
+C:\Users\beatrizp\source\repos\aula9-excecoes\aula9-excecoes\bin\Debug\net6.0\aula9-excecoes.pdb
+C:\Users\beatrizp\source\repos\aula9-excecoes\aula9-excecoes\obj\Debug\net6.0\aula9-excecoes.dll
+C:\Users\beatrizp\source\repos\aula9-excecoes\aula9-excecoes\obj\Debug\net6.0\refint\aula9-excecoes.dll
+C:\Users\beatrizp\source\repos\aula9-excecoes\aula9-excecoes\obj\Debug\net6.0\aula9-excecoes.pdb
+C:\Users\beatrizp\source\repos\aula9-excecoes\aula9-excecoes\obj\Debug\net6.0\aula9-excecoes.genruntimeconfig.cache
+C:\Users\beatrizp\source\repos\aula9-excecoes\aula9-excecoes\obj\Debug\net6.0\ref\aula9-excecoes.dll
